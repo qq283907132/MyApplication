@@ -27,7 +27,7 @@ public class cicle  extends View {
 //        给画笔设置颜色
         paint.setColor(Color.RED);
 //        设置画笔属性
-//        paint.setStyle(Paint.Style.FILL);//画笔属性是实心圆
+        paint.setStyle(Paint.Style.FILL);//画笔属性是实心圆
         paint.setStyle(Paint.Style.STROKE);//画笔属性是空心圆
 
         paint.setStrokeWidth(8);//设置画笔粗细
